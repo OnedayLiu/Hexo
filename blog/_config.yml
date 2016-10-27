@@ -46,7 +46,7 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  kk: 随笔
+  note: 笔记
 tag_map:
 
 # Date / Time format
