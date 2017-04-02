@@ -4,6 +4,9 @@ date: 2017-03-25 23:28:29
 tags: note
 ---
 
+Date对象构造函数多参数的使用方法
+<!--more-->
+
 Date对象有三个比较常用的构造方法,分别是：
 ```javascript
 new Date()
