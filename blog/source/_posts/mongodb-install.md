@@ -1,5 +1,5 @@
 ---
-title: mongodb-install
+title: mongodb安装教程
 date: 2017-04-02 18:43:40
 tags:
 ---
